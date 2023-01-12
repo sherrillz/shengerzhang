@@ -17,10 +17,10 @@ feature:
       Political Science and Law\nBachelor of Finance\n●\tCoursework: Advanced Mathematics,
       Statistics, Financial Engineering, Microeconomics, Macroeconomics\n"
   - title: WORK EXPERIENCE
-    icon: ti-panel
-    content: "* MetroData Tech \tShanghai, China\nProduct Manager / Data Analyst \n*
-      DealGlobe Capital\tShanghai, China\nAnalyst\n* Accenture\tShanghai, China\nAnalytics
-      Intern"
+    icon: ti-bag
+    content: "●\t MetroData Tech \tShanghai, China\nProduct Manager / Data Analyst
+      \n\n●\t DealGlobe Capital\tShanghai, China\nAnalyst\n\n●\t Accenture\tShanghai,
+      China\nAnalytics Intern"
   - title: PROJECT EXPERIENCE
     icon: ti-stats-up
     content: "1. Excel, SQL, Tableau: Development of an Online Restaurant Recommendations
