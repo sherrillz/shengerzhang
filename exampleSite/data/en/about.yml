@@ -3,7 +3,7 @@ about:
   enable: true
   title: About Me
   about_item:
-  - icon: ti-ruler-pencil
+  - icon: ti-medall
     title: 'Proficiency in SQL, Python '
     content: I conducted exploratory data analysis on gigabyte dataset using Python
       pandas and matplotlib packages.
