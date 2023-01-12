@@ -1,10 +1,10 @@
 ---
 banner:
   enable: true
-  bg_image_webp: images/backgrounds/hero-area.webp
-  bg_image: images/backgrounds/hero-area.jpg
-  icon: images/myphoto1.jpg
-  title: Hi! Here is Shenger Zhang!
+  bg_image_webp: images/bannar_my.webp
+  bg_image: images/bannar_my.png
+  icon: ''
+  title: Welcome to my website!
   content: I am passionated about data-driven decision making and using data to improve
     business decision to generate higher financial returns. I love working as a team
     and contribute different perspectives to the project.
