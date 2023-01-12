@@ -1,6 +1,6 @@
 ---
 title: Shenger Zhang
-image: ''
+image: images/photo3.webp
 email: sherrillzhang12@gmail.com
 social:
 - icon: ti-github
