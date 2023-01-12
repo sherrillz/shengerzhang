@@ -3,7 +3,7 @@ feature:
   enable: true
   image: images/myphoto3.jpg
   image_webp: images/myphoto3.webp
-  title: We’re A Digital Design Agency.
+  title: Expertise in communicating with stakeholders and using data
   content: I had a transition from finance major to data science. I believe that my
     robust financial background enable me to understand the business model and daily
     operation better and to understand how data-driven decision making helps the company
