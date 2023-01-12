@@ -5,7 +5,9 @@ testimonial:
   bg_image_webp: images/backgrounds/bg-testimonial.webp
   testimonial_item:
   - name: Shenger Zhang
-    image: images/client/client-1.jpg
+    image: images/myphoto1.jpg
     image_webp: images/client/client-1.webp
-    date: Dec 26, 2018
-    content: Content
+    date: "2023"
+    content: I am passionated about data-driven decision making and using data to
+      improve business decision to generate higher financial returns. I love working
+      as a team and contribute different perspectives to the project.
