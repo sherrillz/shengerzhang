@@ -9,6 +9,6 @@ banner:
     business decision to generate higher financial returns. I love working as a team
     and contribute different perspectives to the project.
   button:
-    enable: false
-    label: Explore Us
+    enable: true
+    label: Resume
     link: "#services"
