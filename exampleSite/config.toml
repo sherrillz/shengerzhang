@@ -25,8 +25,8 @@ name = "project"
 url = "#blog"
 weight = 6
 [[Languages.en.menu.main]]
-name = "hi"
-url = "#me_brief"
+name = "resume"
+url = "#contact"
 weight = 7
 [Languages.fr]
 contentDir = "content/french"
