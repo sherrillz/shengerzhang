@@ -11,11 +11,10 @@ feature:
   feature_item:
   - title: EDUCATION
     icon: ti-world
-    content: "University of Maryland, Robert H. Smith School of Business\t          College
-      Park, MD, USA\nMaster of Business Analytics, GPA 3.77\tExpected December 2022\n●\tCoursework:
-      Database Management, Statistics, Big Data, Data Mining, Data Visualization,
-      Machine Learning\n\nEast China University of Political Science and Law\tShanghai,
-      China\nBachelor of Finance\tJuly 2017\n●\tCoursework: Advanced Mathematics,
+    content: "University of Maryland, Robert H. Smith School of Business\nMaster of
+      Business Analytics\n●\tCoursework: Database Management, Statistics, Big Data,
+      Data Mining, Data Visualization, Machine Learning\n\nEast China University of
+      Political Science and Law\nBachelor of Finance\n●\tCoursework: Advanced Mathematics,
       Statistics, Financial Engineering, Microeconomics, Macroeconomics\n"
   - title: WORK EXPERIENCE
     icon: ti-panel
