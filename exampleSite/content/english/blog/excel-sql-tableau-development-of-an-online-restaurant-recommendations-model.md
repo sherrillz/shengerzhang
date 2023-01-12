@@ -13,6 +13,36 @@ The Terp Foodie project aims to helping foodie in College Park to find the highe
 **What sources it includes?**  
 We use data from 5 most famous review platform: Google Review, Yelp, TripAdvisor, Grubhub and Zomato.
 
+![](/images/blog/food1.png)
+
+* **Project Processes**
+
+We built a database for the restaurants in College Park to track each restaurant to analyze what kind of restaurants attract more customers’ reviews and higher ratings
+
+* **Mission Statement**
+
+1\.To connect people with great local restaurants along the way, Terp foodie hopes to enrich the lives of consumers and small business owners. In pursuit of this mission, we aspire to provide the most helpful information possible about local restaurants.
+
+2\.To analyze the customers’ reviews to help local restaurants elevate service quality, Terp foodie hopes to build insight on the food preference from the customers’ reviews and ratings.
+
+* **Mission Objectives**
+
+1\.To find the top 5 categories of local restaurants that get the highest rating.
+
+2\.To find the top 5 categories of local restaurants that get the most customer reviews.
+
+3\.To find the taste differences from each platform
+
+4\.To find the restaurant that gets the highest ratings
+
+5\.To find the restaurant that gets the most customer reviews
+
+6\.To find the recommendation for each popular category.
+
+### **Database Design**
+
+**Logical Database Design——ER Diagram**
+
 **1. restaurant processes**
 
 We built a database for the restaurants in College Park to track each restaurant to analyze what kind of restaurants attract more customers’ reviews and higher ratings.
