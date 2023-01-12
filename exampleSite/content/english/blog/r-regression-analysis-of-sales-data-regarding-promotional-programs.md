@@ -5,6 +5,6 @@ description = ""
 draft = true
 image = ""
 image_webp = ""
-title = "R:regression analysis of sales data regarding promotional programs"
+title = "R,Excel:Regression analysis of sales data regarding promotional programs"
 
 +++
