@@ -27,6 +27,6 @@ feature:
       Model\n2. Consulting, SQL, Data Visualization: Marketing and Funding Data Research
       in Wellness "
   - title: 'TECHNICAL SKILLS '
-    icon: ti-announcement
+    icon: ti-ruler-alt-2
     content: Tableau, Python(Matplotlib, seaborn, PySpark, Pytorch, TensorFlow), SQL,
       R, AWS, Axure, Arena, SAS Excel
