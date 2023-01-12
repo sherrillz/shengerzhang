@@ -8,9 +8,13 @@ skill:
     Pytorch, TensorFlow), SQL, R, AWS, Axure, Arena, SAS Excel"
   image: images/about/company-growth.webp
   skill_item:
-  - name: Business Development
-    percent: 90%
-  - name: Analysis
+  - name: Python
     percent: 70%
-  - name: Design
+  - name: SQL
     percent: 80%
+  - name: Tableau
+    percent: 90%
+  - name: 'SAS '
+    percent: 50%
+  - name: Excel
+    percent: 90%
