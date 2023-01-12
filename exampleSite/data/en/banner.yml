@@ -11,4 +11,4 @@ banner:
   button:
     enable: true
     label: Resume
-    link: "#services"
+    link: "#contact"
