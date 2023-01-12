@@ -22,10 +22,11 @@ feature:
     content: "* MetroData Tech \tShanghai, China\nProduct Manager / Data Analyst \n*
       DealGlobe Capital\tShanghai, China\nAnalyst\n* Accenture\tShanghai, China\nAnalytics
       Intern"
-  - title: SEO Optimized
+  - title: PROJECT EXPERIENCE
     icon: ti-stats-up
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+    content: "1. Excel, SQL, Tableau: Development of an Online Restaurant Recommendations
+      Model\n2. Consulting, SQL, Data Visualization: Marketing and Funding Data Research
+      in Wellness "
   - title: Easy Customization
     icon: ti-announcement
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
