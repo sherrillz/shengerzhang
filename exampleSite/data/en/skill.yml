@@ -4,9 +4,9 @@ skill:
   title: My Skills
   subtitle: I’ve skilled in wide range of programing and data visualization tools.
   content: "●\tKey skills: Proficient in Data analytics, Dashboard and visualization,
-    Product strategy\n●\tTech stacks: Tableau, Python(Matplotlib, seaborn, PySpark,
+    Product strategy\n\n●\tTech stacks: Tableau, Python(Matplotlib, seaborn, PySpark,
     Pytorch, TensorFlow), SQL, R, AWS, Axure, Arena, SAS Excel"
-  image: images/about/company-growth.webp
+  image: images/skill_icon.webp
   skill_item:
   - name: Python
     percent: 70%
