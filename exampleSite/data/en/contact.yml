@@ -5,7 +5,7 @@ contact:
   subtitle: ''
   content: ''
   contact_list:
-  - icon: ti-map
+  - icon: ti-google
     info: https://drive.google.com/file/d/14eHHtA_QAKekmtVBR8nugp7x7srUcddw/view?usp=sharing
   - icon: ti-email
     info: 'Email: sherrillzhang12@gmail.com'
