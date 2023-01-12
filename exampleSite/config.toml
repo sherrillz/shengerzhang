@@ -110,7 +110,7 @@ link = "plugins/google-map/map.js"
 enable = false
 preloader = "images/sitelogo.png"
 [[params.social]]
-icon = "ti-tableau"
+icon = "ti-image"
 link = "https://public.tableau.com/app/profile/shenger.zhang"
 [[params.social]]
 icon = "ti-github"
