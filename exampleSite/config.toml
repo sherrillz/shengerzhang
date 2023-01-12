@@ -111,4 +111,4 @@ enable = false
 preloader = "images/sitelogo.png"
 [[params.social]]
 icon = "ti-linkedin"
-link = "#https://www.linkedin.com/in/sherrill-shenger-zhang/"
+link = "https://www.linkedin.com/in/sherrill-shenger-zhang/"
