@@ -24,3 +24,4 @@ fields:
   description: meta description
 pages:
 - exampleSite/content/english/blog/excel-sql-tableau-development-of-an-online-restaurant-recommendations-model.md
+- exampleSite/content/english/blog/python-descriptive-analytics-on-alumni-association-dataset.md
