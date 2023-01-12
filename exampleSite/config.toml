@@ -13,6 +13,10 @@ languageCode = "en-us"
 languageName = "En"
 weight = 1
 [[Languages.en.menu.main]]
+name = "resume"
+url = "#contact"
+weight = 7
+[[Languages.en.menu.main]]
 name = "about"
 url = "#about"
 weight = 1
@@ -24,10 +28,6 @@ weight = 4
 name = "project"
 url = "#blog"
 weight = 6
-[[Languages.en.menu.main]]
-name = "resume"
-url = "#contact"
-weight = 7
 [Languages.fr]
 contentDir = "content/french"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
