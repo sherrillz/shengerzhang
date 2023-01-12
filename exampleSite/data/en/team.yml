@@ -1,6 +1,6 @@
 ---
 team:
-  enable: true
+  enable: false
   title: About Me
   team_member:
   - name: Shenger Zhang
