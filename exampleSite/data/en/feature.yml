@@ -1,11 +1,13 @@
 ---
 feature:
   enable: true
-  image: images/about/about-business-man.jpg
-  image_webp: images/about/about-business-man.webp
+  image: images/myphoto3.jpg
+  image_webp: images/myphoto3.webp
   title: We’re A Digital Design Agency.
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora
-    itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi.
+  content: I had a transition from finance major to data science. I believe that my
+    robust financial background enable me to understand the business model and daily
+    operation better and to understand how data-driven decision making helps the company
+    grow faster.
   feature_item:
   - title: SEO Optimized
     icon: ti-world
