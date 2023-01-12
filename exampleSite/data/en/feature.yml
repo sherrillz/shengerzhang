@@ -27,7 +27,7 @@ feature:
     content: "1. Excel, SQL, Tableau: Development of an Online Restaurant Recommendations
       Model\n2. Consulting, SQL, Data Visualization: Marketing and Funding Data Research
       in Wellness "
-  - title: Easy Customization
+  - title: 'TECHNICAL SKILLS '
     icon: ti-announcement
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+    content: Tableau, Python(Matplotlib, seaborn, PySpark, Pytorch, TensorFlow), SQL,
+      R, AWS, Axure, Arena, SAS Excel
