@@ -2,7 +2,6 @@
 author = "Shenger Zhang"
 date = 2022-12-08T05:00:00Z
 description = "Built an interactive map using Tableau to show the top 5 restaurants by filtering restaurant categories "
-draft = true
 image = "/images/terpfood.png"
 image_webp = "/images/terpfood-copy.webp"
 title = "Excel, SQL, Tableau: Development of an Online Restaurant Recommendations Model"
