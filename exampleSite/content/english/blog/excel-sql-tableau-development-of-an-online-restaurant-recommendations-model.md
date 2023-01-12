@@ -71,9 +71,6 @@ Sign: binary relationship
 
 1 plat to 1 or more users
 
-  
- 
-
 **4. Design an ER diagram on Lucidchart**
 
 **5. State mission statement(s) and mission objectives for the client.**
@@ -89,9 +86,6 @@ Sign: binary relationship
 
 Using data analysis tools, we would find out the top-rated local businesses.
 
-  
- 
-
 * To find the top 5 categories of local restaurants that get the highest rating.
 * To find the top 5 categories of local restaurants that get the most customer reviews.
 * To find the taste differences from each platform
@@ -103,24 +97,17 @@ Using data analysis tools, we would find out the top-rated local businesses.
 
 Restaurant (**restaurantId**_, _restaurantName, restaurantCag, isOpen, restaurantStreet, restaurantCity, restaurantState, restaurantZipcode, geoLatitude ,geoLongitude)
 
-  
- dishes (**dishId**, _restaurantId_**,** dishName, dishPrice, dishCategory, dishReviewNum)
+dishes (**dishId**, _restaurantId_**,** dishName, dishPrice, dishCategory, dishReviewNum)
 
-  
- User (**userId,** userName, userStDate, userUseful)
+User (**userId,** userName, userStDate, userUseful)
 
-  
- Review(**_userId_**, **_restaurantId_**, reviewDate,reviewStar, reviewText, isReviewUseful)
+Review(**_userId_**, **_restaurantId_**, reviewDate,reviewStar, reviewText, isReviewUseful)
 
 Platform (**platName**,platURL,platFounder,platProduct,platBusinessType)
 
-  
- Record (**_restaurantId_**, **_platName_**, restaurantStar, restaurantReviewCount)
+Record (**_restaurantId_**, **_platName_**, restaurantStar, restaurantReviewCount)
 
 Sign (**_platName,userId_)**
-
-  
- 
 
 **6. Generate business rules and determine referential integrity actions.**
 
@@ -140,9 +127,6 @@ Sign (**_platName,userId_)**
 
 **_Referential integrity:_**
 
-  
- 
-
 **7. Describe sample data for every relation.**
 
 The restaurant’s entity will contain 20 restaurants for each from Yelp, Google map and Tripadvisor and 5 from Zomato and Grubhub. The category will contain at least 5 types to make the comparison more meaningful. The sample data will be like this.
@@ -158,3 +142,5 @@ The Platform entity will contain 5 platforms: Yelp, Google, TripAdvisor, Grubhub
 The Record relation will contain approximately 100 relations. The sample data will be like this.
 
 The Sign relation will contain more than 20 relations. The sample data will be like this
+
+Link to the slides: [https://docs.google.com/presentation/d/1_wrtAFHbON8hmTHzrc8hhKWnHe5P0RUA/edit?usp=sharing&ouid=102714240654033739195&rtpof=true&sd=true](https://docs.google.com/presentation/d/1_wrtAFHbON8hmTHzrc8hhKWnHe5P0RUA/edit?usp=sharing&ouid=102714240654033739195&rtpof=true&sd=true "Project slide")
