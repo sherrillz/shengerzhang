@@ -81,6 +81,8 @@ We built a database for the restaurants in College Park to track each restaurant
 
 ![](/images/blog/foodtableau.png)
 
+### **Project Proposal Document**
+
 **1. restaurant processes**
 
 We built a database for the restaurants in College Park to track each restaurant to analyze what kind of restaurants attract more customers’ reviews and higher ratings.
