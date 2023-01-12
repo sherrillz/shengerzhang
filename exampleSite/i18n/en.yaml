@@ -3,10 +3,6 @@
   translation: Latest Projects
 - id: viewAllPost
   translation: View All Project
-- id: aboutAuthor
-  translation: About author
-- id: authorsPosts
-  translation: Author's posts
 - id: all
   translation: All
 - id: team
