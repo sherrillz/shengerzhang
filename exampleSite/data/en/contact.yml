@@ -5,6 +5,8 @@ contact:
   subtitle: ''
   content: ''
   contact_list:
+  - icon: ti-dashboard
+    info: Tableau:https://public.tableau.com/app/profile/shenger.zhang
   - icon: ti-google
     info: https://drive.google.com/file/d/14eHHtA_QAKekmtVBR8nugp7x7srUcddw/view?usp=sharing
   - icon: ti-email
