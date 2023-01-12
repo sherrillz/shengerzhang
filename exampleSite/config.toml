@@ -17,12 +17,8 @@ name = "about"
 url = "#about"
 weight = 1
 [[Languages.en.menu.main]]
-name = "services"
-url = "#services"
-weight = 2
-[[Languages.en.menu.main]]
-name = "team"
-url = "#team"
+name = "skill"
+url = "#skill"
 weight = 4
 [[Languages.en.menu.main]]
 name = "project"
