@@ -43,6 +43,44 @@ We built a database for the restaurants in College Park to track each restaurant
 
 **Logical Database Design——ER Diagram**
 
+![](/images/blog/food2.png)
+
+**Logical Database Design——relational schema**
+
+![](/images/blog/food3.png)
+
+**Physical Database Design**
+
+![](/images/blog/food4.png)
+
+### **Application**
+
+**1.What are the top 5 categories of local restaurants from all the platform that get the highest rating?**
+
+![](/images/blog/food5.png)
+
+![](/images/blog/food5_r.png)
+
+**2.What are the top 5 categories of local restaurants from all the platform that get the most reviews?**
+
+![](/images/blog/food6.png)
+
+![](/images/blog/food6r.png)
+
+**3.What are the top categories of local restaurants that get the highest ratings from each platform?**
+
+![](/images/blog/food7.jpg)
+
+![](/images/blog/food7r.png)
+
+**4.What are the top 5 restaurants’ names and addresses and categories that get the highest ratings?**
+
+![](/images/blog/food9.png)
+
+![](/images/blog/food9r.png)
+
+![](/images/blog/foodtableau.png)
+
 **1. restaurant processes**
 
 We built a database for the restaurants in College Park to track each restaurant to analyze what kind of restaurants attract more customers’ reviews and higher ratings.
@@ -101,28 +139,6 @@ Sign: binary relationship
 
 1 plat to 1 or more users
 
-**4. Design an ER diagram on Lucidchart**
-
-**5. State mission statement(s) and mission objectives for the client.**
-
-**A mission statement explains the company's purpose and focus, while objectives outline a path for achieving the mission.**
-
-**Mission Statement :**
-
-1. To connect people with great local restaurants along the way, Terp foodie hopes to enrich the lives of consumers and small business owners. In pursuit of this mission, we aspire to provide the most helpful information possible about local restaurants.
-2. To analyze the customers’ reviews to help local restaurants elevate service quality, Terp foodie hopes to build insight on the food preference from the customers’ reviews and ratings.
-
-**Mission objective :**
-
-Using data analysis tools, we would find out the top-rated local businesses.
-
-* To find the top 5 categories of local restaurants that get the highest rating.
-* To find the top 5 categories of local restaurants that get the most customer reviews.
-* To find the taste differences from each platform
-* To find the restaurant that gets the highest ratings
-* To find the restaurant that gets the most customer reviews
-* To find the recommendation for each popular category.
-
 **Convert ER model into the relational schema and identify primary and foreign keys.**
 
 Restaurant (**restaurantId**_, _restaurantName, restaurantCag, isOpen, restaurantStreet, restaurantCity, restaurantState, restaurantZipcode, geoLatitude ,geoLongitude)
@@ -139,7 +155,7 @@ Record (**_restaurantId_**, **_platName_**, restaurantStar, restaurantReviewCoun
 
 Sign (**_platName,userId_)**
 
-**6. Generate business rules and determine referential integrity actions.**
+ **Generate business rules and determine referential integrity actions.**
 
 **_Business rules:_**
 
@@ -157,7 +173,7 @@ Sign (**_platName,userId_)**
 
 **_Referential integrity:_**
 
-**7. Describe sample data for every relation.**
+ **Describe sample data for every relation.**
 
 The restaurant’s entity will contain 20 restaurants for each from Yelp, Google map and Tripadvisor and 5 from Zomato and Grubhub. The category will contain at least 5 types to make the comparison more meaningful. The sample data will be like this.
 
