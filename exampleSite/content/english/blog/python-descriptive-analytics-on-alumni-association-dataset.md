@@ -8,8 +8,7 @@ title = "Python: Descriptive Analytics on Alumni Association Dataset"
 
 +++
 # Python UMD Alumni Project
-
-![](/images/blog/BUDT704Project Slides for Suite/Slide2.PNG)
+{{ $image := resources.Get "images/blog/BUDT704Project Slides for Suite/Slide2.PNG" }}
 
 ![](/images/blog/BUDT704Project Slides for Suite/Slide3.PNG)
 
